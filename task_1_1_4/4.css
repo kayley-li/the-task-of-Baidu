@@ -1,0 +1,27 @@
+@charset "utf-8";
+.main{
+width:400px;
+height:200px;
+background-color:#ccc;	
+position:absolute;
+left:50%;
+top:50%;
+margin-top:-100px;
+margin-left:-200px;
+}
+.left-top{
+	width:50px;
+	heighT:50px;
+border-radius:0 0 50px 0;
+background-color:#fc0;	
+}
+.right-bottom{
+	width:50px;
+	heighT:50px;
+border-radius:50px 0 0 0;
+background-color:#fc0;	
+position:absolute;
+right:0;
+bottom:0;
+
+}
